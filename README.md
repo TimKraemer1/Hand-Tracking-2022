@@ -18,3 +18,7 @@ You can install them using pip:
 
 ```bash
 pip install opencv-python mediapipe pyautogui
+```
+
+## LinkedIn Media Post
+[Post](https://www.linkedin.com/posts/tim-krae_python-project-activity-6989717276816027649-0Rhx?utm_source=share&utm_medium=member_desktop&rcm=ACoAADCxWmgBK47Faxj7PyEDLaPUdQTzlGCOwmY)
